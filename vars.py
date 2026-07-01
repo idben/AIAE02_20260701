@@ -32,3 +32,4 @@ print(a / b)
 age = 38
 print(name, age)
 print("年紀是" + str(age))
+print(f"{name} 年紀是 {age}")

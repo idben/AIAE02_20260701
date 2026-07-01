@@ -1,4 +1,4 @@
-import math
+import math # 導入, 載入, 數學相關的方法物件
 
 print(round(1.5)) # (銀行家)四捨五入
 print(round(2.5))

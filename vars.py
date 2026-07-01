@@ -33,3 +33,6 @@ age = 38
 print(name, age)
 print("年紀是" + str(age))
 print(f"{name} 年紀是 {age}")
+
+your_name = input("請輸入你的名字：")
+print(your_name)

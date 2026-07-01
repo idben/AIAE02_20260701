@@ -35,4 +35,6 @@ print("年紀是" + str(age))
 print(f"{name} 年紀是 {age}")
 
 your_name = input("請輸入你的名字：")
-print(your_name)
+your_age = input("請輸入你的年紀：")
+print(f"{your_name} 年紀是 {your_age}")
+# print(your_age + 1) # input 收到的資料一定是字串

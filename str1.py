@@ -11,3 +11,6 @@ print(s2)
 
 laugh = "ha" * 3
 print(laugh)
+
+age = 38
+print(age > 18)

@@ -38,3 +38,6 @@ your_name = input("請輸入你的名字：")
 your_age = input("請輸入你的年紀：")
 print(f"{your_name} 年紀是 {your_age}")
 # print(your_age + 1) # input 收到的資料一定是字串
+
+print(type(your_age))
+print(type(your_age).__name__)

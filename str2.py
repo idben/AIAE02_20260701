@@ -4,13 +4,13 @@ print("第一行\t第二行")
 print("第一行\\第二行")
 print("第一\"行\"第二行")
 print(r"第一行\t第二行")
-
+print("-" * 20)
 # 字串取索引
 s = "Python"
 print(s[0])
 print(s[5])
 print(s[-1])
-
+print("-" * 20)
 # 字串切片
 print(s[0:3]) # 大於等於起始值, 小於結束值
 print(s[3:]) # 沒有結束值, 取到最後一個字

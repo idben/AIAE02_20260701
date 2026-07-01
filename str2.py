@@ -22,3 +22,15 @@ print("-" * 20)
 
 s2 = "豬腳麵線"
 print(len(s2))
+print("-" * 20)
+
+s3 = "Python PYTHON"
+print(f"轉大寫: {s3.upper()}")
+print(f"轉小寫: {s3.lower()}")
+print(f"第一個字元轉大寫: {s3.capitalize()}")
+print(f"每一個單字的第一個字母轉成大寫: {s3.title()}")
+print("-" * 20)
+
+s4 = "     hello     "
+print(s4)
+print(s4.strip())

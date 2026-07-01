@@ -8,3 +8,6 @@ book = "BOOK"
 s2 = f"""This 
 is a {book}."""
 print(s2)
+
+laugh = "ha" * 3
+print(laugh)

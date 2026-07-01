@@ -27,3 +27,8 @@ print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
+
+
+age = 38
+print(name, age)
+print("年紀是" + str(age))
